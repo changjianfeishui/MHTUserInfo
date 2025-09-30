@@ -1,0 +1,22 @@
+{
+  "name": "MHTUserInfo",
+  "version": "0.1.0",
+  "summary": "A short description of MHTUserInfo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/changjianfeishui/MHTUserInfo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "changjianfeishui": "329735967@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/changjianfeishui/MHTUserInfo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MHTUserInfo/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - MHTUserInfo (0.1.0)
+
+DEPENDENCIES:
+  - MHTUserInfo (from `../`)
+
+EXTERNAL SOURCES:
+  MHTUserInfo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MHTUserInfo: f2f2e6aa496270320c3f1bd528dcbe3e1a77ea1c
+
+PODFILE CHECKSUM: f22d7ffb23f89fd38ed1371bbfbbcb9364d97458
+
+COCOAPODS: 1.16.2
