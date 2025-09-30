@@ -1,16 +1,23 @@
 PODS:
-  - MHTUserInfo (0.1.0)
+  - MHTUserInfo (0.1.0):
+    - YYModel
+  - YYModel (1.0.4)
 
 DEPENDENCIES:
   - MHTUserInfo (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - YYModel
 
 EXTERNAL SOURCES:
   MHTUserInfo:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MHTUserInfo: f2f2e6aa496270320c3f1bd528dcbe3e1a77ea1c
+  MHTUserInfo: 5fce771aaceed5f9277977a1ce38fe794da13141
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
 
-PODFILE CHECKSUM: f22d7ffb23f89fd38ed1371bbfbbcb9364d97458
+PODFILE CHECKSUM: e59c4e8501a7b769ffab7d8ac7b2e22a820ec287
 
 COCOAPODS: 1.16.2

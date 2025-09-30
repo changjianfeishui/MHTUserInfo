@@ -10,9 +10,10 @@
 #endif
 #endif
 
-#import "MHTUserInfo.h"
-#import "MHTUserInfoStore.h"
+#import "NSObject+YYModel.h"
+#import "YYClassInfo.h"
+#import "YYModel.h"
 
-FOUNDATION_EXPORT double MHTUserInfoVersionNumber;
-FOUNDATION_EXPORT const unsigned char MHTUserInfoVersionString[];
+FOUNDATION_EXPORT double YYModelVersionNumber;
+FOUNDATION_EXPORT const unsigned char YYModelVersionString[];
 
