@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MHTUserInfo'
-  s.version          = '0.1.3'
+  s.version          = '0.1.4'
   s.summary          = 'A short description of MHTUserInfo.'
 
 # This description is used to generate tags and improve search results.
@@ -35,8 +35,9 @@ TODO: Add long description of the pod here.
   # s.resource_bundles = {
   #   'MHTUserInfo' => ['MHTUserInfo/Assets/*.png']
   # }
+  s.public_header_files = 'MHTUserInfo/Classes/**/*.h'
 
-  s.public_header_files = 'Pod/Classes/**/*.h'
+  # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
   s.dependency 'YYModel'

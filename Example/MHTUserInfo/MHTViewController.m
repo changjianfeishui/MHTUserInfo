@@ -7,7 +7,7 @@
 //
 
 #import "MHTViewController.h"
-
+#import <MHTUserInfo/MHTUserInfo.h>
 @interface MHTViewController ()
 
 @end
