@@ -6,7 +6,7 @@
 //
 
 #import "MHTUserInfo.h"
-#import <YYModel.h>
+#import "YYModel.h"
 @implementation MHTUserInfo
 - (void)encodeWithCoder:(NSCoder *)aCoder {
     [self yy_modelEncodeWithCoder:aCoder];

@@ -1,6 +1,6 @@
 {
   "name": "MHTUserInfo",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A short description of MHTUserInfo.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/changjianfeishui/MHTUserInfo",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/changjianfeishui/MHTUserInfo.git",
-    "tag": "0.1.0"
+    "tag": "0.1.2"
   },
   "platforms": {
     "ios": "13.0"
